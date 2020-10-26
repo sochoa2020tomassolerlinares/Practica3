@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="autor">Tomás Soler Linares</string>
+    <string name="btnNuevo">Nuevo</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="NuevoContacto">Nuevo Contacto</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtApellidos">Apellidos</string>
+    <string name="txtEmpresa">Empresa</string>
+    <string name="edtTelefono">Teléfono: </string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="rdbEmpresa">Empresa</string>
+    <string name="rdbParticular">Particular</string>
+    <string name="rdbHombre">Hombre</string>
+    <string name="rdbMujer">Mujer</string>
+    <string name="swcFavoritos">Favoritos</string>
+    <string name="ckbRecordarLlamar">Recordar Llamar</string>
+    <string name="txtEdad">Edad: </string>
+    <string name="btnOk">Ok</string>
+    <string name="infoFav">Imagen con la forma de una estrella</string>
+    <string name="infoTlf">Imagen con la forma de un teléfono</string>
+    <string name="infoBusiness">Imagen con la forma del tipo de empresa seleccionado</string>
+    <string name="infoSexo">Imagen con el tipo de sexo del contacto</string>
+</resources>
